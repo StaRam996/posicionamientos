@@ -1,7 +1,7 @@
 h1,p,div{
     
     text-align: left;
-    color: cornflowerblue;
+    color: rgb(8, 35, 85);
     padding: 10px;
     width: 50%;
     display: inline;
@@ -9,19 +9,19 @@ h1,p,div{
 
 h2, div{
     text-align: right;
-    color: cornflowerblue;
+    color: rgb(70, 255, 240);
     padding: 10px;
     width: 50%;
     display: inline;
 }
 a{
-    border: 1px solid red;
+    border: 1px solid rgb(250, 5, 168);
     text-align: right;
     display: inline;
 }
 img{
-    height: 50px;
-    width: 50px;
+    height: 70px;
+    width: 70px;
 }
 
 div.menu{
